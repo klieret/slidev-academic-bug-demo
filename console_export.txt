@@ -1,0 +1,1157 @@
+[vite] connecting... client.ts:19:8
+[windicss] devtools support enabled 
+read more at https://windicss.org devtools:15:9
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Invalid prop: type check failed for prop "text". Expected String with value "undefined", got Undefined  
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <End class="" > 
+  at <Anonymous key=0 is= 
+Object { __name: "end", setup: setup(__props), __hmrId: "e532b98d", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __scopeId: "data-v-e532b98d", __file: "/Users/XXX/Documents/22/git_sync/slidev-academic-bug-demo/node_modules/@slidev/client/layouts/end.vue" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of render function 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of scheduler flush. This is likely a Vue internals bug. Please open an issue at https://new-issue.vuejs.org/?repo=vuejs/core 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+Uncaught (in promise) TypeError: $setup.$slidev is undefined
+    _sfc_render global-top.vue:24
+    renderComponentRoot runtime-core.esm-bundler.js:896
+    componentUpdateFn runtime-core.esm-bundler.js:5580
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    mountChildren runtime-core.esm-bundler.js:5234
+    mountElement runtime-core.esm-bundler.js:5143
+    processElement runtime-core.esm-bundler.js:5115
+    patch runtime-core.esm-bundler.js:5035
+    mountChildren runtime-core.esm-bundler.js:5234
+    mountElement runtime-core.esm-bundler.js:5143
+    processElement runtime-core.esm-bundler.js:5115
+    patch runtime-core.esm-bundler.js:5035
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    mountElement runtime-core.esm-bundler.js:5143
+    processElement runtime-core.esm-bundler.js:5115
+    patch runtime-core.esm-bundler.js:5035
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    componentUpdateFn chunk-V4LB3WK7.js:5639
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    callWithErrorHandling runtime-core.esm-bundler.js:155
+    flushJobs runtime-core.esm-bundler.js:396
+2 global-top.vue:24:7
+[vite] connected. client:268:21
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Invalid prop: type check failed for prop "text". Expected String with value "undefined", got Undefined  
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <End class="" > 
+  at <Anonymous key=0 is= 
+Object { __name: "end", setup: setup(__props), __hmrId: "e532b98d", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __scopeId: "data-v-e532b98d", __file: "/Users/XXX/Documents/22/git_sync/slidev-academic-bug-demo/node_modules/@slidev/client/layouts/end.vue" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of render function 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of scheduler flush. This is likely a Vue internals bug. Please open an issue at https://new-issue.vuejs.org/?repo=vuejs/core 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+Uncaught (in promise) TypeError: $setup.$slidev is undefined
+    _sfc_render global-top.vue:24
+    renderComponentRoot runtime-core.esm-bundler.js:896
+    componentUpdateFn runtime-core.esm-bundler.js:5580
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    callWithErrorHandling runtime-core.esm-bundler.js:155
+    flushJobs runtime-core.esm-bundler.js:396
+global-top.vue:24:7
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Invalid prop: type check failed for prop "text". Expected String with value "undefined", got Undefined  
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <End class="" > 
+  at <Anonymous key=0 is= 
+Object { __name: "end", setup: setup(__props), __hmrId: "e532b98d", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __scopeId: "data-v-e532b98d", __file: "/Users/XXX/Documents/22/git_sync/slidev-academic-bug-demo/node_modules/@slidev/client/layouts/end.vue" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of render function 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of scheduler flush. This is likely a Vue internals bug. Please open an issue at https://new-issue.vuejs.org/?repo=vuejs/core 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+Uncaught (in promise) TypeError: $setup.$slidev is undefined
+    _sfc_render global-top.vue:24
+    renderComponentRoot runtime-core.esm-bundler.js:896
+    componentUpdateFn runtime-core.esm-bundler.js:5580
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    mountChildren runtime-core.esm-bundler.js:5234
+    mountElement runtime-core.esm-bundler.js:5143
+    processElement runtime-core.esm-bundler.js:5115
+    patch runtime-core.esm-bundler.js:5035
+    mountChildren runtime-core.esm-bundler.js:5234
+    mountElement runtime-core.esm-bundler.js:5143
+    processElement runtime-core.esm-bundler.js:5115
+    patch runtime-core.esm-bundler.js:5035
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    callWithErrorHandling runtime-core.esm-bundler.js:155
+    flushJobs runtime-core.esm-bundler.js:396
+global-top.vue:24:7
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Invalid prop: type check failed for prop "text". Expected String with value "undefined", got Undefined  
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <End class="" > 
+  at <Anonymous key=0 is= 
+Object { __name: "end", setup: setup(__props), __hmrId: "e532b98d", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __scopeId: "data-v-e532b98d", __file: "/Users/XXX/Documents/22/git_sync/slidev-academic-bug-demo/node_modules/@slidev/client/layouts/end.vue" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of render function 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of scheduler flush. This is likely a Vue internals bug. Please open an issue at https://new-issue.vuejs.org/?repo=vuejs/core 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+Uncaught (in promise) TypeError: $setup.$slidev is undefined
+    _sfc_render global-top.vue:24
+    renderComponentRoot runtime-core.esm-bundler.js:896
+    componentUpdateFn runtime-core.esm-bundler.js:5580
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    callWithErrorHandling runtime-core.esm-bundler.js:155
+    flushJobs runtime-core.esm-bundler.js:396
+global-top.vue:24:7
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Invalid prop: type check failed for prop "text". Expected String with value "undefined", got Undefined  
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <End class="" > 
+  at <Anonymous key=0 is= 
+Object { __name: "end", setup: setup(__props), __hmrId: "e532b98d", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __scopeId: "data-v-e532b98d", __file: "/Users/XXX/Documents/22/git_sync/slidev-academic-bug-demo/node_modules/@slidev/client/layouts/end.vue" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of render function 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of scheduler flush. This is likely a Vue internals bug. Please open an issue at https://new-issue.vuejs.org/?repo=vuejs/core 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+Uncaught (in promise) TypeError: $setup.$slidev is undefined
+    _sfc_render global-top.vue:24
+    renderComponentRoot runtime-core.esm-bundler.js:896
+    componentUpdateFn runtime-core.esm-bundler.js:5580
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    mountChildren runtime-core.esm-bundler.js:5234
+    mountElement runtime-core.esm-bundler.js:5143
+    processElement runtime-core.esm-bundler.js:5115
+    patch runtime-core.esm-bundler.js:5035
+    mountChildren runtime-core.esm-bundler.js:5234
+    mountElement runtime-core.esm-bundler.js:5143
+    processElement runtime-core.esm-bundler.js:5115
+    patch runtime-core.esm-bundler.js:5035
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    mountElement runtime-core.esm-bundler.js:5143
+    processElement runtime-core.esm-bundler.js:5115
+    patch runtime-core.esm-bundler.js:5035
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    callWithErrorHandling runtime-core.esm-bundler.js:155
+    flushJobs runtime-core.esm-bundler.js:396
+global-top.vue:24:7
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Invalid prop: type check failed for prop "text". Expected String with value "undefined", got Undefined  
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <End class="" > 
+  at <Anonymous key=0 is= 
+Object { __name: "end", setup: setup(__props), __hmrId: "e532b98d", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __scopeId: "data-v-e532b98d", __file: "/Users/XXX/Documents/22/git_sync/slidev-academic-bug-demo/node_modules/@slidev/client/layouts/end.vue" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of render function 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of scheduler flush. This is likely a Vue internals bug. Please open an issue at https://new-issue.vuejs.org/?repo=vuejs/core 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+Uncaught (in promise) TypeError: $setup.$slidev is undefined
+    _sfc_render global-top.vue:24
+    renderComponentRoot runtime-core.esm-bundler.js:896
+    componentUpdateFn runtime-core.esm-bundler.js:5580
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    callWithErrorHandling runtime-core.esm-bundler.js:155
+    flushJobs runtime-core.esm-bundler.js:396
+global-top.vue:24:7
+Sourcegraph browser extension is running codeHost.tsx:726
+Sourcegraph attached code navigation codeHost.tsx:726
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Invalid prop: type check failed for prop "text". Expected String with value "undefined", got Undefined  
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <End class="" > 
+  at <Anonymous key=0 is= 
+Object { __name: "end", setup: setup(__props), __hmrId: "e532b98d", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __scopeId: "data-v-e532b98d", __file: "/Users/XXX/Documents/22/git_sync/slidev-academic-bug-demo/node_modules/@slidev/client/layouts/end.vue" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of render function 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of scheduler flush. This is likely a Vue internals bug. Please open an issue at https://new-issue.vuejs.org/?repo=vuejs/core 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+Uncaught (in promise) TypeError: $setup.$slidev is undefined
+    _sfc_render global-top.vue:24
+    renderComponentRoot runtime-core.esm-bundler.js:896
+    componentUpdateFn runtime-core.esm-bundler.js:5580
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    mountChildren runtime-core.esm-bundler.js:5234
+    mountElement runtime-core.esm-bundler.js:5143
+    processElement runtime-core.esm-bundler.js:5115
+    patch runtime-core.esm-bundler.js:5035
+    mountChildren runtime-core.esm-bundler.js:5234
+    mountElement runtime-core.esm-bundler.js:5143
+    processElement runtime-core.esm-bundler.js:5115
+    patch runtime-core.esm-bundler.js:5035
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    callWithErrorHandling runtime-core.esm-bundler.js:155
+    flushJobs runtime-core.esm-bundler.js:396
+global-top.vue:24:7
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Invalid prop: type check failed for prop "text". Expected String with value "undefined", got Undefined  
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <TextWithOptionalLink link=undefined text=undefined > 
+  at <Cover theme="academic" class="slidev-page-1" > 
+  at <1 class="slidev-page-1" > 
+  at <Anonymous key=0 is= 
+Object { __name: "1", setup: setup(__props), __hmrId: "0c5281d2", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __file: "/@slidev/slides/1.md" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <End class="" > 
+  at <Anonymous key=0 is= 
+Object { __name: "end", setup: setup(__props), __hmrId: "e532b98d", render: _sfc_render(_ctx, _cache, $props, $setup, $data, $options), __scopeId: "data-v-e532b98d", __file: "/Users/XXX/Documents/22/git_sync/slidev-academic-bug-demo/node_modules/@slidev/client/layouts/end.vue" }
+ clicks=0  ... > 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: injection "Symbol(slidev-slidev-context)" not found. 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of render function 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+[Vue warn]: Unhandled error during execution of scheduler flush. This is likely a Vue internals bug. Please open an issue at https://new-issue.vuejs.org/?repo=vuejs/core 
+  at <GlobalTop> 
+  at <Anonymous> 
+  at <SlidesShow context="slide" > 
+  at <SlideContainer class="w-full h-full" style= 
+Object { background: "var(--slidev-slide-container-background, black)" }
+ width=undefined  ... > 
+  at <Play onVnodeUnmounted=fn<onVnodeUnmounted> ref=Ref< undefined > > 
+  at <RouterView> 
+  at <App> runtime-core.esm-bundler.js:38:16
+Uncaught (in promise) TypeError: $setup.$slidev is undefined
+    _sfc_render global-top.vue:24
+    renderComponentRoot runtime-core.esm-bundler.js:896
+    componentUpdateFn runtime-core.esm-bundler.js:5580
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    setupRenderEffect runtime-core.esm-bundler.js:5708
+    mountComponent runtime-core.esm-bundler.js:5490
+    processComponent runtime-core.esm-bundler.js:5448
+    patch runtime-core.esm-bundler.js:5038
+    mountChildren runtime-core.esm-bundler.js:5234
+    processFragment runtime-core.esm-bundler.js:5407
+    patch runtime-core.esm-bundler.js:5031
+    componentUpdateFn runtime-core.esm-bundler.js:5587
+    run reactivity.esm-bundler.js:185
+    update runtime-core.esm-bundler.js:5694
+    callWithErrorHandling runtime-core.esm-bundler.js:155
+    flushJobs runtime-core.esm-bundler.js:396
+global-top.vue:24:7
